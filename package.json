@@ -4,8 +4,7 @@
   "description": "diagrams.net desktop",
   "main": "electron.js",
   "scripts": {
-    "start": "electron ."
-    "build:prod": "ng build --prod",
+    "start": "electron .",
     "heroku-postbuild": "npm run build:prod"
   },
   "repository": {
