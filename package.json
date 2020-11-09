@@ -5,6 +5,8 @@
   "main": "electron.js",
   "scripts": {
     "start": "electron ."
+    "build:prod": "ng build --prod",
+    "heroku-postbuild": "npm run build:prod"
   },
   "repository": {
     "type": "git",
