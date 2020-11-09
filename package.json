@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgraph/drawio.git"
+    "url": "git+https://git.heroku.com/diagram-example.git"
   },
   "keywords": [
     "draw.io",
